@@ -1,0 +1,26 @@
+{
+  "name": "godid-digit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "ts-node test/index.test.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VinciXie/godid-digit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VinciXie/godid-digit/issues"
+  },
+  "homepage": "https://github.com/VinciXie/godid-digit#readme",
+  "devDependencies": {
+    "@types/node-fetch": "^2.6.3",
+    "node-fetch": "^2.6.7"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
