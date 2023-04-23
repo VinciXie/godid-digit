@@ -18,9 +18,9 @@
   "homepage": "https://github.com/VinciXie/godid-digit#readme",
   "devDependencies": {
     "@types/node-fetch": "^2.6.3",
-    "node-fetch": "^2.6.7"
+    "ts-node": "^10.9.1"
   },
   "dependencies": {
-    "ts-node": "^10.9.1"
+    "node-fetch": "^2.6.7"
   }
 }
